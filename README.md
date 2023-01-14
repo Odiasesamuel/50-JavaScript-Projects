@@ -1,6 +1,6 @@
-# 20 JavaScript Projects
+# 50 JavaScript Projects
 
-20 based CSS and JavaScript learning projects to futher understand basic and advanced JavaScript concepts
+50 based CSS and JavaScript learning projects to futher understand basic and advanced JavaScript concepts
 
 1. 3D Background Boxes
 2. Animated Countdown
